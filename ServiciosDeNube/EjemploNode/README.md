@@ -1,3 +1,7 @@
 -------------------------------------
 Ejemplo de Webservice
-Usando NodeJS
+Usando:
+       + NodeJS
+       + Express
+	   + Mongoose
+	   + MongoDB
