@@ -4,16 +4,12 @@
  *                   ITESO                         *
  *                                                 * 
  *    Actividad 1: Diseño de un WebService         *
- *    Codigo Base: Alvaro Parres (parres@iteso.mx) * 
+ *                                                 * 
  *                                                 * 
  *    Alumno: Andres Aldaco Torres                 *
  *    Exp: ms35023                                 *
  *                                                 *
  ***************************************************
- *                                                 *
- * Instrucciones: Complete el codigo basado en     * 
- * las indicaciones descritas en el documento      *
- *                                                 *
  ***************************************************
  */
 
